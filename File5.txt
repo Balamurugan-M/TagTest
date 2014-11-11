@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 BranchB changes - Second change
-=======
-I think conflicit
->>>>>>> origin/branchA
+
