@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 BranchB changes - Second change
 
+=======
+I think conflicit
+Nothing to change here
+Okva
+>>>>>>> origin/branchA
