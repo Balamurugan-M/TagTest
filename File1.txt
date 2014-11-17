@@ -7,3 +7,4 @@ Branch A - FirstChange
 789
 0000
 Rebase change 2 - Branch A
+Rebase change 3 - Branch B
