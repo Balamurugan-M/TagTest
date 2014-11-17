@@ -4,3 +4,4 @@ Second file change
 4
 5
 6
+Rebase change 3 - Branch A
