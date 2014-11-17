@@ -6,3 +6,4 @@ Second file change
 6
 Rebase change 3 - Branch A
 Rebase change 4 - Branch A
+Rebase change 5 - Branch B
