@@ -4,4 +4,12 @@ Test Line 3
 Test Line 4 for Smart Git
 Test Line 5 for CI1
 Test Line 6 for CI1_2123
+Test Line 6 for 
+Test Line 1
+Test Line 2
+Test Line 3
+Test Line 4 for Smart Git
+Test Line 5 for CI1
+Test Line 6 for CI1_2123
 Test Line 6 for CI1_2124
+CI1_2124
