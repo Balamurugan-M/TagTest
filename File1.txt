@@ -10,5 +10,3 @@ Rebase change 2 - Branch A
 Rebase change 3 - Branch B
 Rebase change 4 - Branch B
 From B1 branch for Merge
-
-Branch2 Changes
