@@ -1,0 +1,6 @@
+[submodule "MavenTest"]
+	path = MavenTest
+	url = https://github.com/Balamurugan-M/MavenTestApp.git
+[submodule "MavenTest1"]
+	path = MavenTest1
+	url = https://github.com/Balamurugan-M/MavenTestApp.git
